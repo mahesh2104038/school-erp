@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSWeb", "SIMSWeb\SIMSWeb.csproj", "{6BAE3CBF-8B2B-4E67-84DD-E7E8C88967A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIMSAPI", "SIMSAPI\SIMSAPI.csproj", "{F1BF292E-E6D2-45F7-9EA0-18D2F35320A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimsReports", "SimsReports\SimsReports.csproj", "{E62D973F-E73A-4D59-987A-55041FA9382B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAE3CBF-8B2B-4E67-84DD-E7E8C88967A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAE3CBF-8B2B-4E67-84DD-E7E8C88967A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAE3CBF-8B2B-4E67-84DD-E7E8C88967A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAE3CBF-8B2B-4E67-84DD-E7E8C88967A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BF292E-E6D2-45F7-9EA0-18D2F35320A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BF292E-E6D2-45F7-9EA0-18D2F35320A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BF292E-E6D2-45F7-9EA0-18D2F35320A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BF292E-E6D2-45F7-9EA0-18D2F35320A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62D973F-E73A-4D59-987A-55041FA9382B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62D973F-E73A-4D59-987A-55041FA9382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62D973F-E73A-4D59-987A-55041FA9382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62D973F-E73A-4D59-987A-55041FA9382B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
